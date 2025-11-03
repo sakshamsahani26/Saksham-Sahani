@@ -47,25 +47,10 @@ Passionate about building scalable applications and impactful AI-driven systems.
 - **Summer Intern – ReactJS Developer @ A2IT** *(July–Aug 2024)*  
   - Built a secure, responsive **e-commerce platform** with authentication, product filtering, Razorpay checkout, and automated invoicing.  
 
----
-
-
-
----
-
-
-
----
-
-## 🏅 Certifications
- 
-
----
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-sahani-751087397)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshamsahani29@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshamsahani26)  
 
----
 
