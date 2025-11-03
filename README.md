@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Saksham%20Sahani&fontSize=85&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20Patent%20Author&descAlign=50&descAlignY=60&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Saksham%20Sahani&fontSize=85&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20%20&descAlign=50&descAlignY=60&animation=fadeIn)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 🎓 **B.Tech CSE | Final Year Student @ Amity University Punjab** <br>
 💻 AI/ML Enthusiast | Full-Stack & Hybrid App Developer <br>
-🛠️ **Currently working on:** Smart Parking System, E-commerce, Computer Vision, Text-to-3D, NLP, Agentic AI <br>
+🛠️ **Currently working on:** Smart Parking System, E-commerce, Computer Vision, NLP, Agentic AI <br>
 
 ---
 
@@ -34,11 +34,11 @@ Passionate about building scalable applications and impactful AI-driven systems.
 ## 📂 Featured Projects
 - 🛒 **[AI-Cross-Platform E-Commerce App](https://github.com/samdisha-walia/E-commerce.git)**  
   - Flutter + React Native app with authentication, cart, Razorpay checkout, automated PDF invoicing, and Play Store test deployment.  
-- 🅿 **[AI-Powered Smart Parking System](https://github.com/samdisha-walia/Smart-Parking.git)**  
+- 🅿 **[AI-Powered Smart Parking System](https://github.com/sakshamsahani26/Smart-Parking.git)**  
   - Real-time parking detection & license recognition using OpenCV + Flask with anomaly detection.  
-- ☁ **[Cloud-Based Learning Management System](https://github.com/samdisha-walia/LMS.git)**  
+- ☁ **[Cloud-Based Learning Management System](https://github.com/sakshamsahani26/Learning-Management-System.git)**  
   - Scalable LMS with **Django + React.js + AWS**, featuring dashboards and analytics.  
-- 📦 **[Inventory Management System](https://github.com/samdisha-walia/InventoryManagement.git)**  
+- 📦 **[Inventory Management System](https://github.com/sakshamsahani26/Inventory-Management.git)**  
   - Role-based Django app for product tracking and stock management.  
 
 ---
