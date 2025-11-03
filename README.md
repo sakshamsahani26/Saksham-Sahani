@@ -32,7 +32,7 @@ Passionate about building scalable applications and impactful AI-driven systems.
 ---
 
 ## 📂 Featured Projects
-- 🛒 **[AI-Cross-Platform E-Commerce App](https://github.com/samdisha-walia/E-commerce.git)**  
+- 🛒 **[AI-Cross-Platform E-Commerce App](https://github.com/sakshamsahani26/E-Commerce-webapp.git)**  
   - Flutter + React Native app with authentication, cart, Razorpay checkout, automated PDF invoicing, and Play Store test deployment.  
 - 🅿 **[AI-Powered Smart Parking System](https://github.com/sakshamsahani26/Smart-Parking.git)**  
   - Real-time parking detection & license recognition using OpenCV + Flask with anomaly detection.  
@@ -52,5 +52,4 @@ Passionate about building scalable applications and impactful AI-driven systems.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-sahani-751087397)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshamsahani29@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshamsahani26)  
-
 
