@@ -2,14 +2,14 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Samdisha%20Walia&fontSize=85&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20Patent%20Author&descAlign=50&descAlignY=60&animation=fadeIn)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Saksham%20Sahani&fontSize=85&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20Patent%20Author&descAlign=50&descAlignY=60&animation=fadeIn)
 
 </div>
 
 ## Hi there 👋 I'm Saksham Sahani 
 
 🎓 **B.Tech CSE | Final Year Student @ Amity University Punjab** <br>
-💻 **AI/ML Enthusiast | Full-Stack & Hybrid App Developer ** <br>
+💻 AI/ML Enthusiast | Full-Stack & Hybrid App Developer <br>
 🛠️ **Currently working on:** Smart Parking System, E-commerce, Computer Vision, Text-to-3D, NLP, Agentic AI <br>
 
 ---
